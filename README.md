@@ -57,9 +57,9 @@ Repository for resources included in the Responsible Data Sharing Guidebook writ
 1.1 Define the Collective
 -------------------------
 
-1.  ### Key Resources and Digital Tools to Utilize:
+1.  Key Resources and Digital Tools to Utilize:
 
-    a.  #### What problem are you solving?
+    a.  What problem are you solving?
 
         i.  [[Problem Definition Worksheet]{.ul} (Wageningen University
             > &
