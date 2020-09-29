@@ -3,7 +3,7 @@ Repository for resources included in the Responsible Data Sharing Guidebook writ
 
 **Phase One:** [**Build** **the** **Collective**](#_5s5icxsqi4p0)
 
-> [1.1 Define the Collective](#section-2)
+> [1.1 Define the Collective](#11-define-the-collective)
 >
 > [1.2 Establish Shared Vision](#section-3)
 >
