@@ -61,7 +61,7 @@ Repository for resources included in the Responsible Data Sharing Guidebook writ
 
     a.  #### What problem are you solving?
     
-       i. [Problem Definition Worksheet (Wageningen University)](http://www.mspguide.org/tool/problem-definition-worksheet)
+       1. [Problem Definition Worksheet (Wageningen University)](http://www.mspguide.org/tool/problem-definition-worksheet): A worksheet in the Multi-Stakeholder Partnerships portal to help you define your problem in depth.
         
 
         i.  [[Problem Definition Worksheet]{.ul} (Wageningen University
